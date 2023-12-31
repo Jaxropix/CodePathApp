@@ -10,8 +10,8 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [X] Users are see a screen with three labels and a button
+- [X] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -20,7 +20,22 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
-
+Netflix: 
+   -Skip recap
+   -Curated List 
+Target:
+   -Building Usual for Groceries(I used pick up a lot)
+   -Show barcode to pickup order
+Veee+(Vpn):
+   -Simplicity of the app (one button after login in)
+   -Choosing Vpn's Location 
+Chipotle:
+   -Clean transitions
+   -Add in previous orders
+Desmos:
+   -Color Coordinate Functions
+   -Graphs are accurate and easy to read
+   
 
 
 ## Notes
