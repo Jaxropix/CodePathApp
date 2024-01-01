@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - CodePath App
 
-Submitted by: **Your Name Here**
+Submitted by: Sue Wu
 
-**Name of your app** is an app that... [TODO] 
+CodePath App is an app that changes background color as the starting point of ios development journey 
 
-Time spent: **X** hours spent in total
+Time spent: 2 hours spent in total
 
 ## Required Features
 
@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 <a href="https://imgur.com/1gWa8ve">  App Demo
 </a> 
 
-## App Brainstorming (Step 4)
+## App Brainstorming
 Netflix: 
    -Skip recap
    -Curated List 
