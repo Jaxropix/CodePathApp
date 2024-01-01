@@ -15,7 +15,9 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-https://imgur.com/1gWa8ve
+
+<a href="https://imgur.com/1gWa8ve">  App Demo
+</a> 
 
 ## App Brainstorming (Step 4)
 Netflix: 
